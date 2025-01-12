@@ -2,9 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Manjunath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjunath-angadi-78581a154/)](https://www.linkedin.com/in/manjunath-angadi-78581a154/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Manjunath-yellow)](https://stackoverflow.com/users/20490521/manjunath)
 
-I'm
-A Junior developer. Full stack web developer Intern at Edureka. Have knowledge of HTML, CSS, JavaScript, Nodejs, bootstrap
-I have 2 years of experience in ASP.NET technology as a Junior developer but i want to switch my technology. I am looking for better opportunity.
+Dynamic Junior Developer with 3 years 10 months of experience in Front-end Development and a proven track record of delivering high-quality web applications in fast-paced environments.
+Proficient in leveraging modern web technologies, including HTML, CSS, JavaScript, and React.js, to create responsive and user-friendly interfaces that enhance user engagement.or better opportunity.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/manjunath9740/count.svg)
